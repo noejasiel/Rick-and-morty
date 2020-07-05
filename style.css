@@ -3,11 +3,10 @@ h1 {
   margin: 0.5em 2em;
   text-align: center;
 }
-*{
+* {
   margin: 0;
   padding: 0;
   outline: none;
-  
 }
 .conteiner {
   display: flex;
@@ -28,8 +27,7 @@ img {
   border-radius: 15px;
   border: none;
   color: white;
-  margin: 0.5em 2em;¨
-  
+  margin: 0.5em 2em;
 }
 
 .generate {
@@ -55,7 +53,7 @@ img {
 
 .text {
   display: block;
-  margin: 0em .5em 1em .5em;
+  margin: 0em 0.5em 1em 0.5em;
   color: white;
   padding: 1em 01em;
   background-color: #b3001b;
